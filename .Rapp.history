@@ -1,0 +1,6 @@
+run_analysis.R
+run_analysis
+getwd()
+run_analysis
+source(run_analysis.R)
+source("run_analysis.R")
